@@ -66,6 +66,7 @@ Output datafile: `./data/cryptocurrencies_data.txt`
 
 In the debugging process I encountered names of existing crypto coins that are  weirder than ML could have randomly come up with, and are trading at non-zero $USD values….
 
+```
 MAY "Theresa May Coin" 0.000197574
 TSE "Tattoocoin (Standard Edition)" 0.000217536
 FLUZ 'Fluz Fluz' 0.022218693
@@ -74,6 +75,7 @@ POE Po.et 0.00214985
 EMC2 Einsteinium 0.042217778
 FAT Fatcoin 0.018319265
 GBC2 'Gold Bits Coin' 0.022218693
+```
 
 Full list of my input cryptos in github here: https://github.com/aberke/city-visions/blob/master/week-2/data/cryptocurrencies_data.txt 
 
