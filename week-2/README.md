@@ -67,7 +67,7 @@ what do you think about Bitcoin or Ethereum?
 ```
 
 
-Then I fed the [huggingface chatbot](https://github.com/huggingface/transfer-learning-conv-ai) my list of crypto (symbol, name, USD price) information  again...  and  again... In  a loop  to see what it would return...
+So I fed the [huggingface chatbot](https://github.com/huggingface/transfer-learning-conv-ai) my list of crypto (symbol, name, USD price) information  again...  and  again... In  a loop  to see what it would return...
 The bot went crazy at times in the middle of the loop.   Many humans go crazy too when (fake) money is involved in our looping economy.  Bots and humans responding alike… so the crypto singularity is near?!
 
 ```
