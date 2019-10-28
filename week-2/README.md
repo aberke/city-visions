@@ -60,6 +60,81 @@ Output datafile: `./data/cryptocurrencies_data.txt`
 *Note: Many of the cryptocurrencies used as training input are no longer trading, in which case their $USD price was set to 0.0.*
 
 
+## ChatBot Crypto Conversations
+
+The [huggingface chatbot](https://github.com/huggingface/transfer-learning-conv-ai) had a lot to say about cryptocurrency...
+
+what is your favorite cryptocurrency?
+`>>> i like old fashioned metal`
+
+what do you think about Bitcoin or Ethereum?
+`>>> i think it is a good currency`
+
+
+Then I fed [huggingface chatbot](https://github.com/huggingface/transfer-learning-conv-ai) my list of crypto (symbol, name, USD price) information  again...  and  again... In  a loop  to see what it would return...
+The bot went crazy at times in the middle of the loop.   Many humans go crazy too when (fake) money is involved in our looping economy.  Bots and humans responding alike… so the crypto singularity is near?!
+
+```
+Cryptos: BTC Bitcoin 7661.3
+Bot: i am always listening to music.
+Cryptos: ETH Ethereum 167.42
+Bot: ok. i am listening to music i like rock music.
+Cryptos: AUD2 'Aussie  Digital' 0.65982667
+Bot: i am a mechanic. i am just an old mechanic.
+Cryptos: XRP Ripple 0.282570591
+Bot: i'm a mechanic. i fix airplanes for a living.
+Cryptos: UNFLD UnfoldU 34.34
+Bot: i am a mechanic. i am a mechanic.
+Cryptos: USDT Tether 1.000337543
+Bot: i am a very old mechanic
+Cryptos: BCH 'Bitcoin Cash' 222.35
+Bot: lol. 35. 35. we repair planes for a living.
+Cryptos: GRAM 'Telegram Open Network' 1.807366053
+Bot: all i have is junk cars
+Cryptos: LTC Litecoin 52.63
+Bot: that's funny i'm only 35
+Cryptos: BNB 'Binance Coin' 17.78
+Bot: i'm a mechanic
+Cryptos: EOS EOS 2.85
+Bot: i fix airplanes for a living
+Cryptos: BCHSV 'Bitcoin SV' 116.24
+Bot: i fix them for a living
+Cryptos: EGWCAP 'EGW Capital' 11.95
+Bot: well i'm always at work
+Cryptos: XLM 'Stellar Lumens' 0.061098604
+Bot: i'm always at work. i fix planes for a living
+Cryptos: TRX TRON 0.015509159
+Bot: jfdi. jfdi. jfdi. jfdi. jfdi. jfdi. jfdi
+Cryptos: ADA Cardano 0.038299367
+Bot: jfdi. jfdi. jfdi. jfdi. jfdi. jfdi. jfdi
+Cryptos: LINK ChainLink 2.75
+Bot: jfdi. jfdi...... jfdi.......
+Cryptos: LEO 'Bitfinex Leo Token' 0.939414153
+Bot: jfdi. jfdi. jfdi. jfdi.....
+Cryptos: XMR Monero 54.29
+Bot: i can fix the world. i'll fix it!
+Cryptos: HT 'Huobi Token' 3.37
+Bot: jfdi. jfdi..... jfdi. jfdi.....
+Cryptos: IOT IOTA 0.25976217
+Bot: jfdi... jfdi... 257977245..
+Cryptos: FZEN 'Financial Zen' 104.92
+Bot: ... jfdd. jfdd... 2777758
+Cryptos: DASH Dash 65.03
+Bot: jfdd... 57775256... 2774
+Cryptos: ATOM Cosmos 2.91
+Bot: jfdd....
+Cryptos: XTZ Tezos 0.785216924
+Bot: i fix airplanes....
+Cryptos: MEXC 'MEXC Token' 0.566400145
+Bot: my fav band is jfdp
+Cryptos: ETC 'Ethereum Classic' 4.43
+Bot: do you want to try listening to a new album?
+Cryptos: NEO NEO 7.14
+Bot: i have never heard of that band.
+```
+
+Code: https://github.com/aberke/city-visions/blob/master/week-2/HW2_text_generation.ipynb
+
 
 
 ## The Real Data is weird enough...
