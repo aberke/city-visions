@@ -2,7 +2,7 @@
 
 ## With RNNs 
 
-I used the [textgenrnn](https://github.com/minimaxir/textgenrnn) RNN machine learning module to generate fake/speculative cryptocurrency data from current cryptocurrency data (it’s this how it’s done anyhow ;-)).
+I used the [textgenrnn](https://github.com/minimaxir/textgenrnn) RNN machine learning module to generate fake/speculative cryptocurrency data from current cryptocurrency data (isn't this how it’s done anyhow ;-)).
 
 The output is in the form of __symbol, name, $USD price__
 
