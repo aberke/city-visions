@@ -41,8 +41,8 @@ EMC "Decert Money Coin" 0.001999197
 ```
 
 ## Method / Data / How
-The data source is all cryptocurrencies listed by coindex (including those no longer trading).
-The data was ingested from coindex as JSON and then transformed into a csv/txt file that works with the minimaxir/textgenrnn module.
+The data source is all cryptocurrencies listed by coincodex (including those no longer trading).
+The data was ingested from coincodex as JSON and then transformed into a csv/txt file that works with the minimaxir/textgenrnn module.
 [Data source](https://coincodex.com/apps/coincodex/cache/all_coins_packed.json?t=26199381&coincodex.com)
 
 All the code for this data transformation is in [github](https://github.com/aberke/city-visions/blob/master/week-2) at `./crypto_data_script.ipynb`
