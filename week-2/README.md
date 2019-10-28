@@ -56,11 +56,15 @@ Output datafile: `./data/cryptocurrencies_data.txt`
 
 The [huggingface chatbot](https://github.com/huggingface/transfer-learning-conv-ai) had a lot to say about cryptocurrency...
 
+```
 what is your favorite cryptocurrency?
-`>>> i like old fashioned metal`
+>>> i like old fashioned metal
+```
 
+```
 what do you think about Bitcoin or Ethereum?
-`>>> i think it is a good currency`
+>>> i think it is a good currency
+```
 
 
 Then I fed [huggingface chatbot](https://github.com/huggingface/transfer-learning-conv-ai) my list of crypto (symbol, name, USD price) information  again...  and  again... In  a loop  to see what it would return...
