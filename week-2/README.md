@@ -10,29 +10,22 @@ Some favorites...
 
 ```
 BOTC Botcoin 0.00021108
-CRT "Credit Token" 0.000653993
-BOT BootCoin 0.000129398
 SPC Spacecoin 0.00012733
 
 XCC "Cash Coin" 0.0
-XCC "Chin Coin" 0.000139998
-GET2 "Gene Token" 0.000113792
 BET Betters 0.0
-DARE Darto 0.0
-STT3 "Start Coin" 0.0
 PCC2 "Place Coin" 0.000148341
 XBC "Bitcoin Blockchain" 0.000523123
 PARE Paris 0.0
-BARE BitcoinA 0.001190911
 ```
 
-And then by increasing the ‘temperature’ (adding more  ‘entropy’) they get even better…
+By increasing the ‘temperature’ (adding more  ‘entropy’) they get even better…
 
 ```
-CTA1 "Currenity Token" 0.0
+PCOP PoperCoin 0.000465216
+SHHT "SHT Token" 0.0
 KROB Krep 0.0
 FXC FuxxCoin 0.0
-EMC "Decert Money Coin" 0.001999197
 BROTC Brostribs 0.0
 XBAC2 "Blockchain Adiamend Coin" 0.001187232
 DECO Delcoin 0.0
@@ -41,11 +34,10 @@ WOP Wo 0.695537238
 MAPL "Marpa Chain" 5.189e-06
 BITM Bitmi 0.0
 BRIX Biocoin 0.000149343
-SHHT "SHT Token" 0.0
 KM2 Kikera 0.0
 SECN Secus 0.0
 NSC Nucoin 0.0
-PCOP PoperCoin 0.000465216
+EMC "Decert Money Coin" 0.001999197
 ```
 
 ## Method / Data / How
